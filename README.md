@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a student majoring in computer science in college.
+Now I'm doing some research on emerging topics like blockchain, decentralized finance, etc.
+
 <!--
 **CierraMegumi/CierraMegumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
